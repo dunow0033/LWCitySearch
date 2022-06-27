@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/LWCitySearch/app/src/main/res/layout/activity_main.xml" value="0.24456521739130435" />
         <entry key="..\:/Users/bedon/AndroidStudioProjects/LWCitySearch/app/src/main/res/layout/activity_recycler_view.xml" value="0.18072916666666666" />
         <entry key="..\:/Users/bedon/AndroidStudioProjects/LWCitySearch/app/src/main/res/layout/activity_second.xml" value="0.18125" />
+        <entry key="..\:/Users/bedon/AndroidStudioProjects/LWCitySearch/app/src/main/res/layout/recyclerview_row.xml" value="0.18072916666666666" />
       </map>
     </option>
   </component>
